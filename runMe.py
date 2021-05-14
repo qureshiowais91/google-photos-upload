@@ -8,7 +8,7 @@ import time
 
 def job():
     print("I'm working...")
-    print(uploder())
+    uploder()
 
 UPLOAD_EVERY_MIN = 1
 
