@@ -43,3 +43,20 @@ optional arguments:
 #### commandLinearg.py   : command line arg
 
 #### uploadMedia.py      : upload img file to album
+
+
+# google-photos-upload
+
+Python based uploader for uploading files to [Google Photos](https://photos.google.com/) from the commandline.
+This script has been tested uploading a directory with over 5000 images in it.
+
+## Setup
+
+1. Install requirements: `pip install -r requirements.txt`
+2. Signup for an Google Photos API here: https://developers.google.com/photos/library/guides/get-started
+![enable api key screenshot](assets/enable_api_key.png)
+3. Download the `credentials.json` file and place it in this directory
+
+
+
+
