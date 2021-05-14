@@ -41,5 +41,6 @@ optional arguments:
 5.  getAlbum.py         : return album_id( -a option use this file)
 6.  commandLinearg.py   : command line arg
 7.  uploadMedia.py      : upload img file to album
+8.  runMe.py            : run this file with arguments to upload
 
 
