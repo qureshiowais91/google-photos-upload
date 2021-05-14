@@ -4,9 +4,7 @@
 
 Create Your Project on Google Cloud https://redirect.is/o0i61kz
 
-### Command
-  
-  ### Examples
+### Commands
   
   ### To Upload
   
