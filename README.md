@@ -4,15 +4,15 @@
 
 Create Your Project on Google Cloud https://redirect.is/o0i61kz
 
-## Command
+### Command
   
-  ## Examples
+  ### Examples
   
-  ## To Upload
+  ### To Upload
   
     python3 runMe.py -d dir -a 'name of album'
   
-  ##
+  #### Create New Album
   
      python3 runMe.py -mk "new album name"
      
