@@ -2,7 +2,7 @@
 
 ## Upload your Photo to Google photos
 
-Create Your Project on Google Cloud https://redirect.is/o0i61kz
+
 
 ### Commands
 
@@ -49,7 +49,8 @@ optional arguments:
 
 1. Install requirements: `pip install -r requirements.txt`
 2. Signup for an Google Photos API here: https://developers.google.com/photos/
-3. Download the `credentials.json` file and place it in this directory
+3. Create Your Project on Google Cloud https://redirect.is/o0i61kz  
+4. Download the `Client_id.json` file and place it in this directory
 
 
 
