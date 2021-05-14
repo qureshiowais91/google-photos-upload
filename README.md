@@ -1,5 +1,7 @@
 # google-sync-photos
 
+
+
 ## Upload your Photo to Google photos
 
 ## Setup
@@ -8,7 +10,6 @@
 2. Signup for an Google Photos API here: https://developers.google.com/photos/
 3. Create Your Project on Google Cloud https://redirect.is/o0i61kz  
 4. Download the `Client_id.json` file and place it in this directory
-
 
 ## Commands
   
@@ -42,5 +43,10 @@ optional arguments:
 6.  commandLinearg.py   : command line arg
 7.  uploadMedia.py      : upload img file to album
 8.  runMe.py            : run this file with arguments to upload
+
+
+## TODO 
+1.NOTE : only album which are created via script are accessible via script 
+
 
 
