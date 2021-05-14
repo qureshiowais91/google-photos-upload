@@ -5,6 +5,8 @@
 Create Your Project on Google Cloud https://redirect.is/o0i61kz
 
 ### Commands
+
+   
   
   ### To Upload
   
@@ -13,14 +15,18 @@ Create Your Project on Google Cloud https://redirect.is/o0i61kz
   #### Create New Album
   
      python3 runMe.py -mk "new album name"
-     
- 
-#### -mk make new album in your account
   
-#### -a  destination album 
+   
+   ```
+   usage: runMe.py [-h] [-d D] [-a A] [-mk MK]
 
-#### -d  source dir of photos
-
+optional arguments:
+  -h, --help  show this help message and exit
+  -d D        Enter Source directory
+  -a A        Enter Name of Destination Album
+  -mk MK      Create Album in Google Photo
+   ```
+   
 
 ## File Description
 
