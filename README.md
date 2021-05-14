@@ -5,12 +5,15 @@
 Create Your Project on Google Cloud https://redirect.is/o0i61kz
 
 ## Command
+  
+  ## Example
+    ### python3 runMe.py -d dir -a 'name of album'
 
--mk make new album in your account
+#### -mk make new album in your account
+  
+#### -a  destination album 
 
--a  destination album 
-
--d  source dir of photos
+#### -d  source dir of photos
 
 
 ## File Description
